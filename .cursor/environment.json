@@ -1,0 +1,4 @@
+{
+  "name": "herdr",
+  "install": "bash .cursor/install.sh"
+}
