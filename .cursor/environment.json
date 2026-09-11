@@ -1,4 +1,4 @@
 {
   "name": "herdr",
-  "install": "bash .cursor/install.sh"
+  "install": "bash .cursor/install.sh && bash .cursor/install-extras.sh"
 }
